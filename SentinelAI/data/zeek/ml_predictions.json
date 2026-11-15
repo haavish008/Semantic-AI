@@ -1,0 +1,167 @@
+[
+    {
+        "flow": 1,
+        "source_ip": "192.168.170.8",
+        "destination_ip": "192.168.170.20",
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "prediction": 0,
+        "label": "BENIGN",
+        "benign_probability": 0.96,
+        "ddos_probability": 0.04
+    },
+    {
+        "flow": 2,
+        "source_ip": "192.168.170.8",
+        "destination_ip": "192.168.170.20",
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "prediction": 0,
+        "label": "BENIGN",
+        "benign_probability": 0.8289,
+        "ddos_probability": 0.1711
+    },
+    {
+        "flow": 3,
+        "source_ip": "192.168.170.8",
+        "destination_ip": "192.168.170.20",
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "prediction": 0,
+        "label": "BENIGN",
+        "benign_probability": 0.8289,
+        "ddos_probability": 0.1711
+    },
+    {
+        "flow": 4,
+        "source_ip": "192.168.170.8",
+        "destination_ip": "192.168.170.20",
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "prediction": 0,
+        "label": "BENIGN",
+        "benign_probability": 0.9333,
+        "ddos_probability": 0.0667
+    },
+    {
+        "flow": 5,
+        "source_ip": "192.168.170.8",
+        "destination_ip": "192.168.170.20",
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "prediction": 0,
+        "label": "BENIGN",
+        "benign_probability": 0.8356,
+        "ddos_probability": 0.1644
+    },
+    {
+        "flow": 6,
+        "source_ip": "192.168.170.8",
+        "destination_ip": "192.168.170.20",
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "prediction": 0,
+        "label": "BENIGN",
+        "benign_probability": 0.8289,
+        "ddos_probability": 0.1711
+    },
+    {
+        "flow": 7,
+        "source_ip": "192.168.170.8",
+        "destination_ip": "192.168.170.20",
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "prediction": 0,
+        "label": "BENIGN",
+        "benign_probability": 0.8289,
+        "ddos_probability": 0.1711
+    },
+    {
+        "flow": 8,
+        "source_ip": "192.168.170.8",
+        "destination_ip": "192.168.170.20",
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "prediction": 0,
+        "label": "BENIGN",
+        "benign_probability": 0.8222,
+        "ddos_probability": 0.1778
+    },
+    {
+        "flow": 9,
+        "source_ip": "192.168.170.8",
+        "destination_ip": "192.168.170.20",
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "prediction": 0,
+        "label": "BENIGN",
+        "benign_probability": 0.8356,
+        "ddos_probability": 0.1644
+    },
+    {
+        "flow": 10,
+        "source_ip": "192.168.170.8",
+        "destination_ip": "192.168.170.20",
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "prediction": 0,
+        "label": "BENIGN",
+        "benign_probability": 0.8222,
+        "ddos_probability": 0.1778
+    },
+    {
+        "flow": 11,
+        "source_ip": "192.168.170.56",
+        "destination_ip": "217.13.4.24",
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "prediction": 0,
+        "label": "BENIGN",
+        "benign_probability": 0.8667,
+        "ddos_probability": 0.1333
+    },
+    {
+        "flow": 12,
+        "source_ip": "192.168.170.56",
+        "destination_ip": "217.13.4.24",
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "prediction": 0,
+        "label": "BENIGN",
+        "benign_probability": 0.8422,
+        "ddos_probability": 0.1578
+    },
+    {
+        "flow": 13,
+        "source_ip": "192.168.170.56",
+        "destination_ip": "217.13.4.24",
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "prediction": 0,
+        "label": "BENIGN",
+        "benign_probability": 0.8733,
+        "ddos_probability": 0.1267
+    },
+    {
+        "flow": 14,
+        "source_ip": "192.168.170.56",
+        "destination_ip": "217.13.4.24",
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "prediction": 0,
+        "label": "BENIGN",
+        "benign_probability": 0.8356,
+        "ddos_probability": 0.1644
+    },
+    {
+        "flow": 15,
+        "source_ip": "192.168.170.56",
+        "destination_ip": "217.13.4.24",
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "prediction": 0,
+        "label": "BENIGN",
+        "benign_probability": 0.8356,
+        "ddos_probability": 0.1644
+    }
+]

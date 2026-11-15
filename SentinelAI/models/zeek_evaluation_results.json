@@ -1,0 +1,40 @@
+{
+    "model_type": "Zeek-compatible Random Forest",
+    "features": [
+        "Destination Port",
+        "Flow Duration",
+        "Total Fwd Packets",
+        "Total Backward Packets",
+        "Total Length of Fwd Packets",
+        "Total Length of Bwd Packets",
+        "Flow Bytes/s",
+        "Flow Packets/s",
+        "Fwd Packets/s",
+        "Bwd Packets/s",
+        "Average Packet Size",
+        "Down/Up Ratio",
+        "Subflow Fwd Packets",
+        "Subflow Fwd Bytes",
+        "Subflow Bwd Packets",
+        "Subflow Bwd Bytes"
+    ],
+    "training_samples": 178465,
+    "test_samples": 44617,
+    "accuracy": 0.9967277046865545,
+    "precision": 0.9920127795527156,
+    "recall": 0.9956962025316456,
+    "f1_score": 0.9938510781671159,
+    "confusion_matrix": [
+        [
+            32672,
+            95
+        ],
+        [
+            51,
+            11799
+        ]
+    ],
+    "split_method": "chronological_80_20",
+    "n_estimators": 150,
+    "random_state": 42
+}

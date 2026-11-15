@@ -1,0 +1,303 @@
+[
+    {
+        "flow": 1,
+        "source_ip": "192.168.170.8",
+        "destination_ip": "192.168.170.20",
+        "source_port": 32795.0,
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "threat_type": "Normal Traffic",
+        "ml_prediction": 0,
+        "ml_label": "BENIGN",
+        "ml_probability": 0.04,
+        "rule_score": 0.0,
+        "ml_score": 4.0,
+        "unified_score": 1.6,
+        "risk_level": "LOW",
+        "risk_factors": [
+            "ML DDoS probability: 4.00%"
+        ]
+    },
+    {
+        "flow": 2,
+        "source_ip": "192.168.170.8",
+        "destination_ip": "192.168.170.20",
+        "source_port": 32795.0,
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "threat_type": "Normal Traffic",
+        "ml_prediction": 0,
+        "ml_label": "BENIGN",
+        "ml_probability": 0.1711,
+        "rule_score": 0.0,
+        "ml_score": 17.11,
+        "unified_score": 6.84,
+        "risk_level": "LOW",
+        "risk_factors": [
+            "ML DDoS probability: 17.11%"
+        ]
+    },
+    {
+        "flow": 3,
+        "source_ip": "192.168.170.8",
+        "destination_ip": "192.168.170.20",
+        "source_port": 32795.0,
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "threat_type": "Normal Traffic",
+        "ml_prediction": 0,
+        "ml_label": "BENIGN",
+        "ml_probability": 0.1711,
+        "rule_score": 0.0,
+        "ml_score": 17.11,
+        "unified_score": 6.84,
+        "risk_level": "LOW",
+        "risk_factors": [
+            "ML DDoS probability: 17.11%"
+        ]
+    },
+    {
+        "flow": 4,
+        "source_ip": "192.168.170.8",
+        "destination_ip": "192.168.170.20",
+        "source_port": 32795.0,
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "threat_type": "Normal Traffic",
+        "ml_prediction": 0,
+        "ml_label": "BENIGN",
+        "ml_probability": 0.0667,
+        "rule_score": 0.0,
+        "ml_score": 6.67,
+        "unified_score": 2.67,
+        "risk_level": "LOW",
+        "risk_factors": [
+            "ML DDoS probability: 6.67%"
+        ]
+    },
+    {
+        "flow": 5,
+        "source_ip": "192.168.170.8",
+        "destination_ip": "192.168.170.20",
+        "source_port": 32795.0,
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "threat_type": "High Packet Rate",
+        "ml_prediction": 0,
+        "ml_label": "BENIGN",
+        "ml_probability": 0.1644,
+        "rule_score": 30.0,
+        "ml_score": 16.44,
+        "unified_score": 24.58,
+        "risk_level": "LOW",
+        "risk_factors": [
+            "High packet rate",
+            "High Packet Rate",
+            "ML DDoS probability: 16.44%"
+        ]
+    },
+    {
+        "flow": 6,
+        "source_ip": "192.168.170.8",
+        "destination_ip": "192.168.170.20",
+        "source_port": 32795.0,
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "threat_type": "Normal Traffic",
+        "ml_prediction": 0,
+        "ml_label": "BENIGN",
+        "ml_probability": 0.1711,
+        "rule_score": 0.0,
+        "ml_score": 17.11,
+        "unified_score": 6.84,
+        "risk_level": "LOW",
+        "risk_factors": [
+            "ML DDoS probability: 17.11%"
+        ]
+    },
+    {
+        "flow": 7,
+        "source_ip": "192.168.170.8",
+        "destination_ip": "192.168.170.20",
+        "source_port": 32795.0,
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "threat_type": "Normal Traffic",
+        "ml_prediction": 0,
+        "ml_label": "BENIGN",
+        "ml_probability": 0.1711,
+        "rule_score": 0.0,
+        "ml_score": 17.11,
+        "unified_score": 6.84,
+        "risk_level": "LOW",
+        "risk_factors": [
+            "ML DDoS probability: 17.11%"
+        ]
+    },
+    {
+        "flow": 8,
+        "source_ip": "192.168.170.8",
+        "destination_ip": "192.168.170.20",
+        "source_port": 32795.0,
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "threat_type": "Normal Traffic",
+        "ml_prediction": 0,
+        "ml_label": "BENIGN",
+        "ml_probability": 0.1778,
+        "rule_score": 0.0,
+        "ml_score": 17.78,
+        "unified_score": 7.11,
+        "risk_level": "LOW",
+        "risk_factors": [
+            "ML DDoS probability: 17.78%"
+        ]
+    },
+    {
+        "flow": 9,
+        "source_ip": "192.168.170.8",
+        "destination_ip": "192.168.170.20",
+        "source_port": 32796.0,
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "threat_type": "High Packet Rate",
+        "ml_prediction": 0,
+        "ml_label": "BENIGN",
+        "ml_probability": 0.1644,
+        "rule_score": 30.0,
+        "ml_score": 16.44,
+        "unified_score": 24.58,
+        "risk_level": "LOW",
+        "risk_factors": [
+            "High packet rate",
+            "High Packet Rate",
+            "ML DDoS probability: 16.44%"
+        ]
+    },
+    {
+        "flow": 10,
+        "source_ip": "192.168.170.8",
+        "destination_ip": "192.168.170.20",
+        "source_port": 32797.0,
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "threat_type": "High Packet Rate",
+        "ml_prediction": 0,
+        "ml_label": "BENIGN",
+        "ml_probability": 0.1778,
+        "rule_score": 30.0,
+        "ml_score": 17.78,
+        "unified_score": 25.11,
+        "risk_level": "LOW",
+        "risk_factors": [
+            "High packet rate",
+            "High Packet Rate",
+            "ML DDoS probability: 17.78%"
+        ]
+    },
+    {
+        "flow": 11,
+        "source_ip": "192.168.170.56",
+        "destination_ip": "217.13.4.24",
+        "source_port": 1707.0,
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "threat_type": "High Packet Rate",
+        "ml_prediction": 0,
+        "ml_label": "BENIGN",
+        "ml_probability": 0.1333,
+        "rule_score": 30.0,
+        "ml_score": 13.33,
+        "unified_score": 23.33,
+        "risk_level": "LOW",
+        "risk_factors": [
+            "High packet rate",
+            "High Packet Rate",
+            "ML DDoS probability: 13.33%"
+        ]
+    },
+    {
+        "flow": 12,
+        "source_ip": "192.168.170.56",
+        "destination_ip": "217.13.4.24",
+        "source_port": 1708.0,
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "threat_type": "High Packet Rate",
+        "ml_prediction": 0,
+        "ml_label": "BENIGN",
+        "ml_probability": 0.1578,
+        "rule_score": 30.0,
+        "ml_score": 15.78,
+        "unified_score": 24.31,
+        "risk_level": "LOW",
+        "risk_factors": [
+            "High packet rate",
+            "High Packet Rate",
+            "ML DDoS probability: 15.78%"
+        ]
+    },
+    {
+        "flow": 13,
+        "source_ip": "192.168.170.56",
+        "destination_ip": "217.13.4.24",
+        "source_port": 1709.0,
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "threat_type": "High Packet Rate",
+        "ml_prediction": 0,
+        "ml_label": "BENIGN",
+        "ml_probability": 0.1267,
+        "rule_score": 30.0,
+        "ml_score": 12.67,
+        "unified_score": 23.07,
+        "risk_level": "LOW",
+        "risk_factors": [
+            "High packet rate",
+            "High Packet Rate",
+            "ML DDoS probability: 12.67%"
+        ]
+    },
+    {
+        "flow": 14,
+        "source_ip": "192.168.170.56",
+        "destination_ip": "217.13.4.24",
+        "source_port": 1710.0,
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "threat_type": "High Packet Rate",
+        "ml_prediction": 0,
+        "ml_label": "BENIGN",
+        "ml_probability": 0.1644,
+        "rule_score": 30.0,
+        "ml_score": 16.44,
+        "unified_score": 24.58,
+        "risk_level": "LOW",
+        "risk_factors": [
+            "High packet rate",
+            "High Packet Rate",
+            "ML DDoS probability: 16.44%"
+        ]
+    },
+    {
+        "flow": 15,
+        "source_ip": "192.168.170.56",
+        "destination_ip": "217.13.4.24",
+        "source_port": 1711.0,
+        "destination_port": 53.0,
+        "protocol": "udp",
+        "threat_type": "High Packet Rate",
+        "ml_prediction": 0,
+        "ml_label": "BENIGN",
+        "ml_probability": 0.1644,
+        "rule_score": 30.0,
+        "ml_score": 16.44,
+        "unified_score": 24.58,
+        "risk_level": "LOW",
+        "risk_factors": [
+            "High packet rate",
+            "High Packet Rate",
+            "ML DDoS probability: 16.44%"
+        ]
+    }
+]
